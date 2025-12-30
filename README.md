@@ -49,11 +49,10 @@ desenvolvendo soluções eficientes e evoluindo continuamente na área de tecnol
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IsabelaCSS&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaCSS&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsabelaCSS&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaCSS&layout=compact&theme=tokyonight)
 
 ---
 
