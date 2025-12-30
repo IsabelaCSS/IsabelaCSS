@@ -1,46 +1,68 @@
-## 👩‍💻 Isabela de Oliveira Alves
+<h1 align="center">👩‍💻 Isabela de Oliveira Alves</h1>
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💡 Apaixonada por tecnologia, desenvolvimento e aprendizado contínuo  
-🚀 Em busca do **primeiro emprego na área de programação**
-
----
-
-### 🛠️ Tecnologias que estudo e utilizo
-- HTML5  
-- CSS3  
-- JavaScript  
-- Java  
-- Dart / Flutter  
-- MySQL  
-- Git & GitHub  
+<p align="center">
+  Estudante de <b>Análise e Desenvolvimento de Sistemas</b> <br>
+  Desenvolvedora em formação | Foco em Front-end
+</p>
 
 ---
 
-### 📌 Projetos em destaque
-- 💻 **Portfólio Online**  
-  👉 https://isabelacss.github.io/Portifolio/
-
-- 📱 **App PAM**  
-  Aplicação desenvolvida como projeto acadêmico
-
-- 🗄️ **Banco de Dados MySQL**  
-  Modelagem e consultas SQL
+## 🧠 Sobre
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web.
+Tenho experiência acadêmica com criação de interfaces, lógica de programação e banco de dados.
+Busco minha **primeira oportunidade na área de tecnologia** para aplicar meus conhecimentos e evoluir profissionalmente.
 
 ---
 
-### 🌱 Atualmente aprendendo
-- Desenvolvimento Front-end
-- Estrutura de dados
-- Boas práticas de programação
-- Versionamento de código
+## 🛠️ Tecnologias
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,dart,flutter,mysql,git,github" />
+</p>
 
 ---
 
-### 📫 Como me encontrar
+## 📌 Projetos
+🔹 **Portfólio Online**  
+🔗 https://isabelacss.github.io/Portifolio/  
+Tecnologias: HTML, CSS, JavaScript  
+
+🔹 **App PAM**  
+Projeto acadêmico voltado à prática de lógica de programação e estrutura de aplicações  
+
+🔹 **Banco de Dados MySQL**  
+Modelagem de dados e consultas SQL desenvolvidas em ambiente acadêmico  
+
+---
+
+## 📚 Formação
+🎓 **Análise e Desenvolvimento de Sistemas**  
+(Faculdade / Curso superior em andamento)
+
+🎓 **Desenvolvimento de Sistemas**  
+(Formação técnica)
+
+---
+
+## 🎯 Objetivo
+Atuar como desenvolvedora júnior ou estagiária, aplicando boas práticas de programação,
+desenvolvendo soluções eficientes e evoluindo continuamente na área de tecnologia.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IsabelaCSS&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaCSS&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔗 Contato
 - GitHub: https://github.com/IsabelaCSS  
 - LinkedIn: https://www.linkedin.com/in/isabela-de-oliveira-alves-693848245/
 
 ---
 
-✨ *Sempre aberta a aprender, evoluir e colaborar em novos projetos!*
+<p align="center">
+  <i>Em constante aprendizado e evolução 🚀</i>
+</p>
