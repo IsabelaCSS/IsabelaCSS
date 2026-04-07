@@ -49,13 +49,6 @@ desenvolvendo soluções eficientes e evoluindo continuamente na área de tecnol
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsabelaCSS&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaCSS&layout=compact&theme=tokyonight)
-
----
-
 ## 🔗 Contato
 - GitHub: https://github.com/IsabelaCSS  
 - LinkedIn: https://www.linkedin.com/in/isabela-de-oliveira-alves-693848245/
