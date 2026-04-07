@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de <b>Análise e Desenvolvimento de Sistemas</b> <br>
-  Desenvolvedora em formação | Foco em Front-end
+  Desenvolvedora em formação
 </p>
 
 ---
