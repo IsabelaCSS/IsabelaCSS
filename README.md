@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 Sobre
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web.
+Sou estudante de Análise e Desenvolvimento de Sistemas.
 Tenho experiência acadêmica com criação de interfaces, lógica de programação e banco de dados.
 Busco minha **primeira oportunidade na área de tecnologia** para aplicar meus conhecimentos e evoluir profissionalmente.
 
