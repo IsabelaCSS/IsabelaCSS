@@ -5,16 +5,20 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,dart,flutter,mysql,git,github" alt="Tecnologias" />
+  <img src="https://komarev.com/ghpvc/?username=IsabelaCSS&color=8b5cf6&style=flat-square" alt="Contador de visitas" />
 </p>
+
+> 💜 Transformando café, curiosidade e código em soluções.
 
 ---
 
-## 👋 Sobre mim
+## 🌟 Bem-vindo(a) ao meu GitHub
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e formada técnica em Desenvolvimento de Sistemas. Durante minha trajetória acadêmica, desenvolvi projetos com foco em criação de interfaces, lógica de programação e banco de dados.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e formada técnica em **Desenvolvimento de Sistemas**. Aqui você encontra meus projetos, experimentos e a trilha do que estou aprendendo, sempre com HTML semântico, CSS caprichado e commits limpos.
 
-Estou em busca da minha **primeira oportunidade na área de tecnologia**, onde eu possa aplicar o que aprendi, contribuir com soluções reais e continuar evoluindo como desenvolvedora.
+- 🚀 Em busca da minha **primeira oportunidade** na área de tecnologia
+- 🎯 Foco em interfaces, lógica de programação, banco de dados e mobile
+- 🌱 Aprendendo algo novo todos os dias
 
 ---
 
@@ -22,53 +26,73 @@ Estou em busca da minha **primeira oportunidade na área de tecnologia**, onde e
 
 | Área | Tecnologias |
 | --- | --- |
-| Front-end | HTML5, CSS3, JavaScript |
-| Mobile | Dart, Flutter |
-| Back-end / Lógica | Java |
-| Banco de dados | MySQL |
-| Ferramentas | Git, GitHub |
+| 🎨 Front-end | HTML5, CSS3, JavaScript |
+| 📱 Mobile | Dart, Flutter |
+| ⚙️ Lógica | Java |
+| 🗄️ Banco de dados | MySQL |
+| 🧰 Ferramentas | Git, GitHub |
+
+---
+
+## 📊 GitHub em números
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsabelaCSS&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaCSS&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" width="48%" />
+</p>
+
+---
+
+## 🧭 Minha jornada
+
+- 🏁 **Começo:** formação técnica em Desenvolvimento de Sistemas, onde descobri que dá para criar coisas do zero
+- 📚 **Agora:** graduação em Análise e Desenvolvimento de Sistemas, aprofundando lógica, banco de dados e boas práticas
+- 🌟 **Próximo destino:** minha primeira vaga como desenvolvedora júnior ou estagiária
 
 ---
 
 ## 📌 Projetos em destaque
 
+### 🔹 Cartão de Visitas Digital
+Cartão de visitas responsivo com tema claro e escuro, feito com HTML, CSS e JavaScript puros e versionado com Conventional Commits.
+
+🔗 [Cartão de Visita](https://isabelacss.github.io/mavi-click/)
+
 ### 🔹 Portfólio Online
-Site pessoal desenvolvido para apresentar minha trajetória, projetos e formas de contato.
+Site pessoal que apresenta minha trajetória, projetos e contato.
 
 🔗 [isabelacss.github.io/Portifolio](https://isabelacss.github.io/Portifolio/)
 
-**Tecnologias:** HTML, CSS, JavaScript
-
 ### 🔹 App PAM
-Projeto acadêmico focado na prática de lógica de programação e na estruturação de aplicações.
+Projeto acadêmico focado em lógica de programação e estruturação de aplicações.
 
 **Tecnologias:** Dart, Flutter
 
 ### 🔹 Banco de Dados MySQL
-Modelagem de dados e consultas SQL desenvolvidas em ambiente acadêmico.
+Modelagem de dados e consultas SQL em ambiente acadêmico.
 
-**Tecnologias:** MySQL
+**Tecnologias:** MySQL, SQL
 
 ---
 
 ## 🎓 Formação
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** · [Nome da faculdade] · em andamento
+- 🎓 **Análise e Desenvolvimento de Sistemas** · em andamento
 - 🎓 **Desenvolvimento de Sistemas** · formação técnica
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Atuar como **desenvolvedora júnior ou estagiária**, aplicando boas práticas de programação, desenvolvendo soluções eficientes e crescendo continuamente na área de tecnologia.
+Atuar como **desenvolvedora júnior ou estagiária**, aplicando boas práticas de programação, construindo soluções eficientes e evoluindo continuamente na área de tecnologia.
 
 ---
 
 ## 📫 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-IsabelaCSS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsabelaCSS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isabela%20de%20Oliveira%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-de-oliveira-alves-693848245/)
+<p align="center">
+  <a href="https://github.com/IsabelaCSS"><img src="https://img.shields.io/badge/GitHub-IsabelaCSS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/isabela-de-oliveira-alves-693848245/"><img src="https://img.shields.io/badge/LinkedIn-Isabela%20de%20Oliveira%20Alves-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
-
-<p align="center"><i>Em constante aprendizado e evolução 🚀</i></p>
